@@ -1,15 +1,13 @@
-﻿#summary Introduction to building Camelbox
-#labels Phase-Implementation,Featured
-
-[http://code.google.com/p/camelbox CamelBox Home Page] ::
-[BuildStart Build Start] ::
-[BuildSetup Build Setup] ::
-[BuildPerl Building Perl] ::
-[BuildCoreGtk Building Core GTK Libs] ::
-[BuildExtraGtk Building Extra GTK Libs] ::
-[BuildExternalApps Building External Gtk2-Perl Apps] ::
-[Gtk2PerlLinks Gtk2-Perl Links Page] ::
-[Credits Camelbox Credits]
+﻿[CamelBox Home Page](http://code.google.com/p/camelbox) ::
+[Docs Home](https://github.com/cpanxaoc/camelbox-docs) ::
+[Build Start](https://github.com/cpanxaoc/camelbox-docs/blob/master/building/00-start.md) ::
+[Build Setup](https://github.com/cpanxaoc/camelbox-docs/blob/master/building/01-setup.md) ::
+[Build Base Perl](https://github.com/cpanxaoc/camelbox-docs/blob/master/building/02-base_perl.md) ::
+[Build Core GTK+](https://github.com/cpanxaoc/camelbox-docs/blob/master/building/03-core_gtk.md) ::
+[Build Extra GTK+](https://github.com/cpanxaoc/camelbox-docs/blob/master/building/04-extra_gtk.md) ::
+[Build External Apps](https://github.com/cpanxaoc/camelbox-docs/blob/master/building/05-external_apps) ::
+[Gtk2-Perl Links Page](https://github.com/cpanxaoc/camelbox-docs/blob/master/links/gtk_perl_links.md) ::
+[Camelbox Credits](https://github.com/cpanxaoc/camelbox-docs/blob/master/about/credits.md)
 
 ===Prerequisites===
  * [http://www.cpan.org/src/README.html Perl source]
