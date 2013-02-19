@@ -2,6 +2,10 @@
 
 - Automate building via Jenkins
 - Relocatable
+  - Run a tool after installation that tries to go through the system `PATH`
+    and detect any other conflicting programs/libraries
+    - Perl
+    - GTK libs
 - Figure out what you want to do with the batch files; do you want to call
   wperl, do you want to un-batch-file them, or ??? (example: prove.bat and the
   prove script)
