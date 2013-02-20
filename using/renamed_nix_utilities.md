@@ -20,6 +20,7 @@ absolute pathnames in order to use them.
   * bin/find.exe -> xfind.exe (Windows binary)
   * bin/sort.exe -> xsort.exe (Windows binary)
   * bin/head.exe -> xhead.exe (or rename the HEAD file that's installed from LWP)
+FIXME the LWP version should be renamed, lwphead?
   * bin/date.exe -> xdate.exe (Windows cmd.exe shell builtin)
 
 <wiki:comment>
