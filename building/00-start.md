@@ -1,15 +1,14 @@
-﻿[CamelBox Home Page](http://code.google.com/p/camelbox) ::
+﻿[Camelbox Home Page](http://code.google.com/p/camelbox) ::
 [Gtk2-Perl Links Page](https://github.com/cpanxaoc/camelbox-docs/blob/master/links/gtk_perl_links.md) ::
 [Camelbox Credits](https://github.com/cpanxaoc/camelbox-docs/blob/master/about/credits.md) :: 
-[Docs Home](https://github.com/cpanxaoc/camelbox-docs) 
+[Camelbox Docs Home](https://github.com/cpanxaoc/camelbox-docs)
 
 Building Camelbox: [Build Start](https://github.com/cpanxaoc/camelbox-docs/blob/master/building/00-start.md) ::
 [Build Setup](https://github.com/cpanxaoc/camelbox-docs/blob/master/building/01-setup.md) ::
 [Build Base Perl](https://github.com/cpanxaoc/camelbox-docs/blob/master/building/02-base_perl.md) ::
 [Build Core GTK+](https://github.com/cpanxaoc/camelbox-docs/blob/master/building/03-core_gtk.md) ::
 [Build Extra GTK+](https://github.com/cpanxaoc/camelbox-docs/blob/master/building/04-extra_gtk.md) ::
-[Build External Apps](https://github.com/cpanxaoc/camelbox-docs/blob/master/building/05-external_apps) ::
-
+[Build External Apps](https://github.com/cpanxaoc/camelbox-docs/blob/master/building/05-external_apps)
 
 -----
 
