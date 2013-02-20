@@ -7,6 +7,8 @@
 
 # What to install #
 - There's a good list of tools to consider in the [Camelbox Tools Installer](https://github.com/cpanxaoc/camelbox/blob/master/installer/camelbox_tools.nsi) NSI file
+  - Also, the `Windows_Software\Camelbox\support_apps` folder has a large
+    assortment of software
 - [Unix Utilities for Windows](http://sourceforge.net/project/platformdownload.php?group_id=9328);
   this package has a lot of the external utilities you will need when you run
   the CPAN shell or tools on Windows
@@ -42,9 +44,14 @@
         - Use semicolons to separate path components, and quote characters to
           quote any paths with space in them
   - LZMA and 7zip
-    - See the [build start page](θttps://github.com/cpanxaoc/camelbox-docs/blob/master/building/00-start.md) for info on how to use lzma on the command line
+    - See the [build start page](https://github.com/cpanxaoc/camelbox-docs/blob/master/building/00-start.md) for info on how to use lzma on the command line
   - wget & curl
 
+## Where to install ##
+- Utils
+  - `C:\utils` or `C:\apps`
+- Build tools
+  - `C:\build`
 
 -----
 
