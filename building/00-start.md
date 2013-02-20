@@ -16,9 +16,9 @@ Building Camelbox: [Build Start](https://github.com/cpanxaoc/camelbox-docs/blob/
 - Perl source
   - http://www.cpan.org/src/README.html
 - (Optional)
-  [http://sourceforge.net/project/platformdownload.php?group_id=9328 Unix
-  Utilities for Windows]; this package has a lot of the external utilities you
-  will need when you run the CPAN shell or tools on Windows
+  [Unix Utilities for Windows](http://sourceforge.net/project/platformdownload.php?group_id=9328);
+  this package has a lot of the external utilities you will need when you run
+  the CPAN shell or tools on Windows
   - Install to `C:\camelbox\``
   - You'll have to rename some of the `UnxUtilties` binaries so they don't
     conflict with the Windows equivalents ([list of renamed
