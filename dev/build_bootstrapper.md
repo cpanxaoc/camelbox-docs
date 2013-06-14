@@ -9,6 +9,7 @@
 - There's a good list of tools to consider in the [Camelbox Tools Installer](https://github.com/cpanxaoc/camelbox/blob/master/installer/camelbox_tools.nsi) NSI file
   - Also, the `Windows_Software\Camelbox\support_apps` folder has a large
     assortment of software
+    - Sysinternals http://technet.microsoft.com/en-us/sysinternals/bb545046
 - [Unix Utilities for Windows](http://sourceforge.net/project/platformdownload.php?group_id=9328);
   this package has a lot of the external utilities you will need when you run
   the CPAN shell or tools on Windows
