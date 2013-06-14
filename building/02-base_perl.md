@@ -13,6 +13,9 @@ Credits Camelbox Credits
 
 # Building Perl #
 Use `dmake` to build Perl; [the Perl Win32 README file](http://http://perldoc.perl.org/perlwin32.html) is the source of the below instructions
+- Verify your `PATH` contains both MinGW and the Windows `System32`
+  directories
+
 - Unpack your Perl source distribution
   - `tar -zxvf perl-5.10.0.tar.gz`
 - Enter `$PERL_SRC/win32/` and edit the file called `makefile.mk`; you'll
@@ -27,6 +30,9 @@ Use `dmake` to build Perl; [the Perl Win32 README file](http://http://perldoc.pe
   - *OPTIONAL*: Replace the file `perlexe.ico` with a Windows Icon file of your
     own making.  If you are going to replace the icon, you need to pack it
     first
+- Build under MinGW `bash`
+  - Your path should look something like:
+  - `/mingw/bin:/usr/bin:/usr/sbin:/c/Windows/System32`
 - Run `dmake` with no arguments in the `$PERL_SRC/win32/` directory.  If
   the binaries from MinGW (above) are in the `%PATH%`, then `dmake` should
   start building Perl

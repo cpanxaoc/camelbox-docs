@@ -114,6 +114,8 @@ libtiff\*-lib
 - extract all files to imagelibs-dev
 
 ## UnxUtils ##
+- *Can't use UnxUtils on Windows 7*
+  - binaries are too old, they generally don't run without crashing
 - move everything in unxutils\usr\local to unxutils\usr
 - create unxutils\usr\share\doc\unxutils\
 - move StdDisclaimer.html and UnxUtilsDist.html to unxutils\share\doc\unxutils\
@@ -127,6 +129,7 @@ libtiff\*-lib
 ## dmake ##
 for the dmake package:
 - create a bin directory
+  - *Optional* Add to MinGW bin directory
 - move dmake.exe and support\win95 directories, as well as the files in the
   support directory to dmake\bin
 
@@ -153,8 +156,11 @@ for the dmake-extras package:
 You now have enough software installed to build Perl.  Unpack the source, and
 use dmake to build.
 
+- Change the path for the build shell so that only the MinGW binary
+  directories and `C:\Windows\System32` are in the `%PATH%`
 - make sure the Camelbox logo has been substituted for the perlexe.ico.packd
   file in Perl's win32 directory
+- Run `dmake` in the `win32` directory to perform the build
 - When you run `hump.sh` on the Camelbox directory, you'll get a list of files
   that includes Perl and the Perl HTML documentation.  You'll have to split
   this list by hand so that the html directory is packaged in a separate file
