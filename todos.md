@@ -1,6 +1,18 @@
 # Camelbox Todos #
 
 - Automate building via Jenkins
+  - Natural language project building "blueprint" files
+    - Describe what packages are built and in what order
+    - Describe location of source files for downloading/caching
+    - Describe any command line switches needed for building
+    - Use a formatted file like `JSON` or `YAML`
+- Have package metadata of Perl modules capture the contents of `perllocal` so
+  that `perllocal` on the installed system can be updated as Perl modules are
+  unpacked and installed
+  - Maybe change the package "receipt" format from plaintext to something like
+    `JSON` or `YAML` (or some other config format)
+    - Shows package metadata
+    - Shows files installed by the package
 - Relocatable
   - Run a tool after installation that tries to go through the system `PATH`
     and detect any other conflicting programs/libraries
