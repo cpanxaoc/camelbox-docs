@@ -4,6 +4,7 @@
   - Natural language project building "blueprint" files
     - Describe what packages are built and in what order
     - Describe location of source files for downloading/caching
+    - Describe the version of the tarball to download and build
     - Describe any command line switches needed for building
     - Use a formatted file like `JSON` or `YAML`
 - Have package metadata of Perl modules capture the contents of `perllocal` so
