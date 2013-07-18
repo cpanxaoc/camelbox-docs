@@ -7,6 +7,7 @@
     - Describe the version of the tarball to download and build
     - Describe any command line switches needed for building
     - Use a formatted file like `JSON` or `YAML`
+    - `download tarball glib version x.y.z`
 - Have package metadata of Perl modules capture the contents of `perllocal` so
   that `perllocal` on the installed system can be updated as Perl modules are
   unpacked and installed
