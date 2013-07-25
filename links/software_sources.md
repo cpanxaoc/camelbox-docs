@@ -56,6 +56,7 @@
   * [http://www.pidgin.im/download/windows Pidgin IM]
   * [http://www.sqldbatips.com/showarticle.asp?ID=46 SQL2005 Service Manager]
   * [http://winscp.net/eng/download.php WinSCP]
+  * [http://www.cavapackager.com/ Cava Packager]
 
 <wiki:comment>
 vi: set filetype=googlecodewiki shiftwidth=2 tabstop=2 paste:
