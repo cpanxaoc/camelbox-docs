@@ -33,10 +33,12 @@ See also the [Credits Credits] page for links and licensing details.
 ==External Gtk2-Perl Applications==
 A lot of these external applications come from the `Gtk2::Ex` branch in CPAN.  You can perform a [http://search.cpan.org/search?m=all&q=Gtk2%3A%3AEx&s=1&n=100 search of CPAN for Gtk2::Ex] to see a complete list of applications that are available.
 
-  * [http://search.cpan.org/perldoc?App::Asciio Asciio], an ASCII-art drawing tool (formerly `gpad`)
+- [http://search.cpan.org/perldoc?App::Asciio Asciio], an ASCII-art drawing
+  tool (formerly `gpad`)
   * [http://entropy.homelinux.org/axis/installation.html Axis], a suite of Perl modules that provide an alternative to RAD design tools for database access.
   * [http://sprog.sourceforge.net/index.html Sprog], a graphical tool which anyone can use to build programs by plugging parts together. In Sprog jargon, the parts are known as 'gears' and they are assembled to make a 'machine'.
   * [http://www.gcstar.org/ GCstar], a manager for collections of information such as books, CD's, DVD's, games, and more.
+- http://frood.sourceforge.net/ - Frood - LDAP client
 
 == Compiling Software on Windows: Libraries and Import Libraries ==
   * [http://mirrors.zoreil.com/webclub.kcom.ne.jp/ma/colinp/win32/tools/dlltool.html The DLL Import Library Tool]
