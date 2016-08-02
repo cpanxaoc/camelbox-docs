@@ -40,6 +40,15 @@
   install of Camelbox.
   - `unpack_base.sh` - Unpacks a base Camelbox install from packages.  Checks
     for existing Camelbox directories before unpacking.
+- Project requirements for an automated Jenkins build system for Camelbox
+- Finish setup of Windows XP/7 VM
+  - Document changes made for setup
+  - Find modified registry keys and automate changes
+    - How to validate registry settings before/after things have been
+      installed
+  - Create a standalone Perl binary for modifying registry settings, and
+    snapshotting registry entries, finding differences in between snapshots
+  - Add FreeSSHD in order to use _Rex_ from a `*nix` host
 
 ## Packages to Add ##
 - GStreamer
